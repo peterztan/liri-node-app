@@ -176,7 +176,7 @@ function movieSearch() {
         )
         .then(function(response) {
           var result = response.data;
-          console.log(result);
+          //console.log(result);
           resultData =
             "================================================" +
             "\n\nTitle of the Movie: " +
