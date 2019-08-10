@@ -8,12 +8,12 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
 
 ##### Here's a break-down of this application:
 
-- The application uses a main liri.js file to house the main codes.
-- The package.json houses information about the npm packages that were utilized in this application.
-- The package-lock.json helps users to install the identical package version as were used in this application.
-- The random.txt file houses a single string of text that serves as the input for one of the commands.
-- The keys.js file houses the API key for the Song Search command.
-- The main liri.js is a javascript file that utilizes all of the above files for functionality of this application.
+- The application uses a main `liri.js` file to house the main codes.
+- The `package.json` houses information about the npm packages that were utilized in this application.
+- The `package-lock.json` helps users to install the identical package version as were used in this application.
+- The `random.txt` file houses a single string of text that serves as the input for one of the commands.
+- The `keys.js` file houses the API key for the Song Search command.
+- The main `liri.js` is a javascript file that utilizes all of the above files for functionality of this application.
 
 ### But HOW does it work?
 
