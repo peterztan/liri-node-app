@@ -72,6 +72,15 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
 
     ![Image of `log.txt`](/screenshots/log-txt-2.png)
 
+    - If you chose `node liri.js movie-this "movie title"`, LIRI will search the `OMDB api` database for data relating to the movie that you are searching, and will output the movie information in a readable format as shown below:
+
+    ![Image of `node liri.js movie-this "movie title"`](/screenshots/movie-this.png)
+
+    - and LIRI will log this specific session of your search in a `log.txt` file, as shown below (note that if you entered multiple commands, their results will be logged in the `log.txt` file in order):
+
+    ![Image of `log.txt`](/screenshots/log-txt-3.png)
+
+    
 Contain a link to a deployed version of the app
 Clearly list the technologies used in the app
 State your role in the app development

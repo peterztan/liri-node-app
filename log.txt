@@ -55,3 +55,30 @@ Date(s) of the Event(s): 08/17/2019
 
 ================================================
 __________________________________________________
+__________________________________________________
+
+Last commands entered: movie-this The Lego Movie
+
+Time entered: 2019-8-9 23:52:23
+
+Search Result:
+================================================
+
+Title of the Movie: The Lego Movie
+
+Year the movie came out: 2014
+
+IMDB Rating of the movie: 7.8
+
+Rotten Tomatoes Rating of the movie: 96%
+
+Country where the movie was produced: USA, Denmark, Australia
+
+Language of the movie: English, Turkish
+
+Plot of the movie: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+
+Actors in the movie: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+
+================================================
+__________________________________________________
