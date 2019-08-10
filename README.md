@@ -47,7 +47,24 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
     SPOTIFY_SECRET=your-spotify-secret
 
     ```
-6. After setting everything up, go back to the command terminal
+6. After setting everything up, go back to the command terminal and choose one of the four following commands to type in (you will have to replace the text in quotes with your own search targets):
+
+    ```
+    node liri.js spotify-this-song "song name"
+    node liri.js concert-this "singer name"
+    node liri.js movie-this "movie title"
+    node liri.js do-what-it-says
+
+    ```
+    - If you chose `node liri.js spotify-this-song "song name"`, LIRI will search the `spotify web api` database for data relating to your search target, and will format and output the resulting data in a readable format as shown below:
+
+    [Image of `node liri.js spotify-this-song "song name"`]
+    (/screenshots/spotify-this-song.png)
+
+      - and LIRI will log this specific session of your search in a `log.txt` file, as shown below:
+
+      [Image of `log.txt`]
+      (/screenshots/log-txt-1.png)
 
 Contain a link to a deployed version of the app
 Clearly list the technologies used in the app
