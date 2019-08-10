@@ -4,6 +4,16 @@
 
 LIRI bot is a Language Interpretation and Recognition Interface. It is a command line node application that takes in parameters such as song names, singer's name and movie name and gives back a curated list of related data.
 
+### Why did I make this Application?
+
+Well I'm glad you asked! In the information age that is today, there are too many search engines that do not give you information that you were looking for. LIRI aims to help solve that problem:
+
+- With LIRI, you can input and search what you want from the comfort of your local terminal.
+
+- LIRI takes care of the formatting and gives you only the important information regarding your search target and nothing extra.
+
+- LIRI is simple to use, with only 4 commands, you can get crucial information about songs, singers or movies.
+
 ### The Structuring
 
 ##### Here's a break-down of this application:
