@@ -58,12 +58,12 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
     ```
     - If you chose `node liri.js spotify-this-song "song name"`, LIRI will search the `spotify web api` database for data relating to your search target, and will format and output the resulting data in a readable format as shown below:
 
-    [Image of `node liri.js spotify-this-song "song name"`]
+    ![Image of `node liri.js spotify-this-song "song name"`]
     (/screenshots/spotify-this-song.png)
 
       - and LIRI will log this specific session of your search in a `log.txt` file, as shown below:
 
-      [Image of `log.txt`]
+      ![Image of `log.txt`]
       (/screenshots/log-txt-1.png)
 
 Contain a link to a deployed version of the app
