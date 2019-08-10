@@ -8,12 +8,12 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
 
 ##### Here's a break-down of this application:
 
-1. The application uses a main liri.js file to house the main codes.
-2. The package.json houses information about the npm packages that were utilized in this application.
-3. The package-lock.json helps users to install the identical package version as were used in this application.
-4. The random.txt file houses a single string of text that serves as the input for one of the commands.
-5. The keys.js file houses the API key for the Song Search command.
-6. The main liri.js is a javascript file that utilizes all of the above files for functionality of this application.
+- The application uses a main liri.js file to house the main codes.
+- The package.json houses information about the npm packages that were utilized in this application.
+- The package-lock.json helps users to install the identical package version as were used in this application.
+- The random.txt file houses a single string of text that serves as the input for one of the commands.
+- The keys.js file houses the API key for the Song Search command.
+- The main liri.js is a javascript file that utilizes all of the above files for functionality of this application.
 
 ### But HOW does it work?
 
@@ -31,9 +31,15 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
 
 1. Clone this repository onto your local machine.
 2. Open up your GitBash terminal, or just the terminal if you are using Linux or Mac.
-3. Type `npm i` or `npm install`, and the related packages as well as their dependencies will be installed.
+3. Type `npm i` or `npm install` (as shown below), and the related packages as well as their dependencies will be installed.
+
+    ![Image of `npm i`](/screenshots/npm-install.png)
+
+    ![Image of `npm install`](/screenshots/npm-install2.png)
+
 4. In the root file, create a .env file either by manually creating it, or by typing `touch .env`.
-5. In the .env file, drop the following texts:
+5. In the .env file, drop the following texts (you will have to drop your own spotify api keys in place of the `your-spotify-id` and `your-spotify-secret`):
+
     ```
     # Spotify API keys
 
@@ -41,6 +47,7 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
     SPOTIFY_SECRET=your-spotify-secret
 
     ```
+6. After setting everything up, go back to the command terminal
 
 Contain a link to a deployed version of the app
 Clearly list the technologies used in the app
