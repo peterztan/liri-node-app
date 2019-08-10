@@ -17,3 +17,41 @@ The album that the song is from: Natura
 
 ================================================
 __________________________________________________
+__________________________________________________
+
+Last commands entered: spotify-this-song Praia
+
+Time entered: 2019-8-9 23:39:32
+
+Search Result:
+================================================
+
+Artists: Juan Rios
+
+The Song's name: Praia
+
+A preview link of the song from Spotify: https://p.scdn.co/mp3-preview/3e67086f4deab4fd374a00c3efd410b5faaeffbf?cid=8bbe4616af9c40258e85ca5030976581
+
+The album that the song is from: Natura
+
+================================================
+__________________________________________________
+__________________________________________________
+
+Last commands entered: concert-this Ariana Grande
+
+Time entered: 2019-8-9 23:40:21
+
+Search Result:
+
+
+You can find events information below:
+================================================
+Name(s) of the venue: The O2
+
+Venue location(s): London, , United Kingdom
+
+Date(s) of the Event(s): 08/17/2019
+
+================================================
+__________________________________________________

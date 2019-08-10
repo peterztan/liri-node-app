@@ -37,8 +37,8 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
 
     ![Image of `npm install`](/screenshots/npm-install2.png)
 
-4. In the root file, create a .env file either by manually creating it, or by typing `touch .env`.
-5. In the .env file, drop the following texts (you will have to drop your own spotify api keys in place of the `your-spotify-id` and `your-spotify-secret`):
+4. In the root file, create a `.env` file either by manually creating it, or by typing `touch .env`.
+5. In the `.env` file, drop the following texts (you will have to drop your own spotify api keys in place of the `your-spotify-id` and `your-spotify-secret`):
 
     ```
     # Spotify API keys
@@ -63,6 +63,14 @@ LIRI bot is a Language Interpretation and Recognition Interface. It is a command
     - and LIRI will log this specific session of your search in a `log.txt` file, as shown below:
 
     ![Image of `log.txt`](/screenshots/log-txt-1.png)
+
+    - If you chose `node liri.js concert-this "singer name"`, LIRI will search the `Bandsintown api` database for data relating to your search target, and will format and output the resulting data in a readable format as shown below:
+
+    ![Image of `node liri.js concert-this "singer name"`](/screenshots/concert-this.png)
+
+    - and LIRI will log this specific session of your search in a `log.txt` file, as shown below (note that if you entered multiple commands, their results will be logged in the `log.txt` file in order):
+
+    ![Image of `log.txt`](/screenshots/log-txt-2.png)
 
 Contain a link to a deployed version of the app
 Clearly list the technologies used in the app
